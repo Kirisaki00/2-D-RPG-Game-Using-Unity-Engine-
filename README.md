@@ -40,19 +40,13 @@
 
 ---
 
-## 🖼️ Screenshots
+## 📽️ Gameplay Demo
 
 <div align="center">
 
-| Moonlit Rooftops | Castle Dungeons |
-|:---:|:---:|
-| *Warrior on rooftop under a full moon* | *Skeleton enemies patrol stone corridors* |
+> 🎮 *Click below to watch the full gameplay*
 
-| Chest Exploration | Multi-Floor Dungeon |
-|:---:|:---:|
-| *Discovering loot in the wild* | *Navigating vertical dungeon architecture* |
-
-> 📽️ **Gameplay video available** — see the full demo for combat, movement, and exploration in action.
+[![RPG Game 2D Gameplay](https://img.youtube.com/vi/UVK-wmF-JPg/maxresdefault.jpg)](https://youtu.be/UVK-wmF-JPg)
 
 </div>
 
@@ -123,11 +117,11 @@ git clone https://github.com/Kirisaki00/RPG_Game_2D.git
 
 | Key | Action |
 |-----|--------|
-| `A` / `←` | Move Left |
-| `D` / `→` | Move Right |
+| `A` | Move Left |
+| `D` | Move Right |
 | `Space` | Jump |
-| `Left Click` / `Z` | Attack |
-| `E` | Interact / Open Chest |
+| `Left Click` | Attack |
+| `F` | Interact / Open Chest |
 
 ---
 
@@ -171,9 +165,7 @@ git clone https://github.com/Kirisaki00/RPG_Game_2D.git
 
 <div align="center">
 
-**Kirisaki00**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Kirisaki00-181717?style=for-the-badge&logo=github)](https://github.com/Kirisaki00)
+**Anupam Singh**
 
 *Solo developer — designed, coded, and built from scratch.*
 
